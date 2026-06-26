@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+
+# Windows system files
+desktop.ini
+
+# IDE files (optional)
+.vscode/
+.idea/
+
+# Build directories (optional)
+bin/
+out/
+target/
